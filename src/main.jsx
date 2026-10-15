@@ -74,7 +74,7 @@ function App() {
           <div className="availability"><span className="pulse"/> OPEN TO INTERNSHIPS & OPPORTUNITIES</div>
           <p className="eyebrow">DATA <span>×</span> BUSINESS <span>×</span> AI</p>
           <h1>I turn data<br/>into <em>direction.</em></h1>
-          <p className="hero-lede">I'm Vishv — a Computer Engineering student drawn to the space where analytical thinking, business problems and technology meet.</p>
+          <p className="hero-lede">I'm Vishv, a Computer Engineering student drawn to the space where analytical thinking, business problems and technology meet.</p>
           <div className="hero-actions"><a className="button button-primary" href="#work">Explore my work <ArrowDownRight size={17}/></a><a className="text-link" href="#about">A little about me <ArrowRight size={16}/></a></div>
           <div className="hero-meta"><span><span className="meta-dot"/> BASED IN INDIA</span><span>CURIOUS BY DEFAULT.</span></div>
         </div>
